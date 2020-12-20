@@ -1,5 +1,6 @@
 # AC-19-20
 
+## Objetivo
 
 Este projeto pretende exercitar os fundamentos da área de Arquitetura de Computadores, nomeadamente a programação em linguagem assembly, os periféricos e as interrupções.
 O objetivo deste projeto consiste em concretizar um jogo de simulação do voo de uma nave espacial que tem de enfrentar outras naves.
